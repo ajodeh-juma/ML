@@ -1,0 +1,11 @@
+Tree ensembles
+
+Ensemble learning methods combine a set of models to produce an estimator that has better predictive performance
+that its individual components.
+ A random forest is a collection of decision trees that have been trained on randomly selected subsets of the
+training instances and explanatory variables.
+
+Random forests are less prone to overfitting than decision trees because:
+1. No single tree can learn from all of the instances and explanatory variables.
+2. No single tree memorize all of the noise in the representation.
+
